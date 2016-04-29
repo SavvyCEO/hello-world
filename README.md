@@ -1,2 +1,8 @@
 # hello-world
-This is my introduction. To a new world. I'm coming. See you there.
+This is my introduction to a new world. I'm coming. See you there..
+I decided to update my intro and use complete sentences. In the newWorld, I figure we will still speak 
+and write in correctSyntax. 
+I'm learning...
+I'm growing...
+I'm going to get this! Believe...Believe...Do...Do...
+I will not give up!
